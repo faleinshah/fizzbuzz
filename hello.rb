@@ -5,4 +5,4 @@ def reverse_string(string)
   reversed.join
 end
 
-puts reverse_string("hello")
+puts reverse_string("Hello")
